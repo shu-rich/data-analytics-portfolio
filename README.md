@@ -1,16 +1,12 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics portfolio!  
+This repository showcases end-to-end analytics projects focused on improving business performance and operational efficiency.
 
-This repository showcases end-to-end analytics projects focused on driving business performance, improving operations, and supporting data-driven decision-making.
-
-I am a Business Intelligence and Data Analytics professional with 10+ years of experience delivering actionable insights, building dashboards, and developing analytical solutions that support revenue growth and operational efficiency. My work focuses on translating complex data into clear, impactful insights for stakeholders and leadership teams.
+I am a Data Analytics and Business Intelligence professional with 10+ years of experience delivering actionable insights through dashboards and analytical solutions that support revenue growth and operational efficiency. I specialize in translating complex data into clear, impactful insights for stakeholders and leadership teams, with a focus on business performance analysis and KPI development. I have experience working with large-scale datasets, building automated reporting solutions, and partnering with cross-functional teams to solve complex business problems and support both operational and strategic decision-making.
 
 ---
 
-## About Me
-
-I specialize in business performance analysis, KPI development, and delivering insights that support operational and strategic decisions. I have experience working with large-scale datasets, building automated reporting solutions, and partnering with cross-functional teams to solve complex business problems.
+## Technical Skills
 
 **Core strengths include:**
 
@@ -21,15 +17,10 @@ I specialize in business performance analysis, KPI development, and delivering i
 - Data quality validation and process improvement  
 - Translating business requirements into analytical solutions  
 
----
-
-## Technical Skills
-
 **Tools & Technologies**
 
 - SQL  
 - Excel  
-- Power Query  
 - Tableau  
 - Git / GitHub  
 
@@ -119,4 +110,4 @@ Supports revenue optimization and performance tracking across business segments.
 If you would like to connect or discuss opportunities:
 
 **LinkedIn:**  
-https://www.linkedin.com/in/shurichardson/
+https://www.linkedin.com/in/shurichardson
