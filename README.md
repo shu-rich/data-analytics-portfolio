@@ -45,7 +45,7 @@ I am a Data Analytics and Business Intelligence professional with 10+ years of e
 ### [Ride Revenue Analysis](/ride-revenue-analysis)
 
 **Live Dashboard:**  
-https://public.tableau.com/app/profile/shu.richardson/viz/RideRevenueAnalysis/Summary
+https://public.tableau.com/app/profile/shu.richardson/viz/RideRevenueAnalysis/Overview
 
 **Objective:**  
 Analyze ride booking data to evaluate revenue performance, booking outcomes, and operational efficiency.
