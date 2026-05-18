@@ -1,8 +1,8 @@
 # Data Analytics Portfolio
 
-This repository showcases end-to-end analytics projects focused on improving business performance and operational efficiency.
+I am a Data Analyst with 10+ years of experience using SQL, Excel, and Tableau to build executive dashboards, automate reporting, and deliver insights for sales, marketing, finance, and operations teams. Proven ability to analyze revenue performance, customer behavior, and lifecycle trends to inform pricing, retention, and growth strategies.
 
-I am a Data Analytics and Business Intelligence professional with 10+ years of experience delivering actionable insights through dashboards and analytical solutions that support revenue growth and operational efficiency. I specialize in translating complex data into clear, impactful insights for stakeholders and leadership teams, with a focus on business performance analysis and KPI development. I have experience working with large-scale datasets, building automated reporting solutions, and partnering with cross-functional teams to solve complex business problems and support both operational and strategic decision-making.
+This repository showcases end-to-end analytics projects focused on improving business performance and operational efficiency.
 
 ---
 
@@ -26,21 +26,17 @@ I am a Data Analytics and Business Intelligence professional with 10+ years of e
 
 **Analytics Capabilities**
 
-- Data cleaning and transformation  
-- Exploratory data analysis (EDA)  
-- Data visualization and dashboard development  
-- Revenue and business performance analysis  
-- Customer behavior and retention analysis  
-- KPI design and reporting  
-- Process automation and optimization  
-- Data validation and quality monitoring  
+|   |   |   |
+|---|---|---|
+|Data cleaning and transformation|Exploratory data analysis (EDA)|Revenue and business performance analysis|
+|Data visualization and dashboard development|KPI design and reporting|Customer behavior and retention analysis|
+|Data validation and quality monitoring|Process automation and optimization||
 
 ---
 
 ## Featured Projects
 *These projects reflect real-world analytics workflows used in business, operations, and performance monitoring.*
 
----
 
 ### [Ride Revenue Analysis](/ride-revenue-analysis)
 
@@ -102,8 +98,6 @@ Analyze sales performance across regions and product categories to identify reve
 
 **Business Impact:**  
 Supports revenue optimization and performance tracking across business segments.
-
----
 
 ## Contact
 
