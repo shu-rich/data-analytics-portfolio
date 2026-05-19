@@ -19,7 +19,7 @@ I extracted sales data from syndicated databases and developed an Excel dashboar
 ### Executive Summary
 Sales growth in the National Drug channel slowed during the latest quarter despite continued unit and distribution growth. Dashboard analysis revealed that increasingly aggressive promotional activity and declining Average Retail Price (ARP) reduced revenue efficiency and limited incremental sales gains. Additional findings also identified missed seasonal promotional opportunities and overreliance on short-term promotional spikes.
 
-![National Drug](salesmarketing-performance-cpg-bev/img/national_drug.png)
+![National Drug](img/national_drug.png)
 
 ### Recommendations
 1. Avoid deep promotional discounting that drives ARP below the historical mid-$3.70 range, where incremental unit gains no longer offset declining revenue efficiency
