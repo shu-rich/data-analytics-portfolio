@@ -11,11 +11,20 @@ This portfolio project showcases marketing insights and strategic recommendation
 1. Built an interactive Excel dashboard to monitor market performance, identify growth opportunities, and support strategic business decisions.
 
 ## Demonstrated Skills
-- Syndicated Datasets: Market Selection, KPI Development, Clustering, Aggregation, Reusable Reporting Extracts
-- Power Query: Data Validation, Null/Outlier Handling, Normalization, Transformation, Deduplication, Joins, Data Splitting
-- Excel & Dashboarding: Pivot Tables, Calculated Fields, Data Visualization, Filters, Slicers, KPI Tracking, Benchmarking, Dashboard Design, Stakeholder Reporting
-- Business Analysis: Sales Performance Analysis, Promotional Effectiveness Analysis, Seasonal Trend Analysis, Pricing Analysis
-- Other Skills: Problem Framing, Requirements Gathering, Scoring Methodologies, Reusable Dashboard Development, Strategic Recommendations, Stakeholder Collaboration
+**Syndicated Datasets:**  
+Market Selection, KPI Development, Clustering, Aggregation, Reusable Reporting Extracts
+
+**Power Query:**  
+Data Validation, Null/Outlier Handling, Normalization, Transformation, Deduplication, Joins, Data Splitting
+
+**Excel & Dashboarding:**  
+Pivot Tables, Calculated Fields, Data Visualization, Filters, Slicers, KPI Tracking, Benchmarking, Dashboard Design, Stakeholder Reporting
+
+**Business Analysis:**  
+Sales Performance Analysis, Promotional Effectiveness Analysis, Seasonal Trend Analysis, Pricing Analysis
+
+**Other Skills:**  
+Problem Framing, Requirements Gathering, Scoring Methodologies, Reusable Dashboard Development, Strategic Recommendations, Stakeholder Collaboration
 
 # Case 1: Retail – Primary Fresh Grocers
 ### Executive Summary
