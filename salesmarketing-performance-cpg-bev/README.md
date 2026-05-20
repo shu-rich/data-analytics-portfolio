@@ -1,7 +1,9 @@
 # Sales Marketing: Performance Score for CPG Beverage Companies
 
-## Executive Summary
-I extracted sales data from syndicated databases and developed an Excel dashboard to track sales performance across specific retail channels and stores. This portfolio project showcases marketing insights and strategic recommendations for the CPG beverage industry using real-world datasets.
+## Summary
+I extracted sales data from syndicated databases and developed an Excel dashboard to track sales performance across specific retail channels and stores.  
+
+This portfolio project showcases marketing insights and strategic recommendations for the CPG beverage industry using real-world datasets.
 
 ## Methodology
 1. Extracted syndicated sales and performance metrics for targeted retail markets and channels through syndicated reporting datasets.
@@ -15,7 +17,34 @@ I extracted sales data from syndicated databases and developed an Excel dashboar
 - Business Analysis: Sales Performance Analysis, Promotional Effectiveness Analysis, Seasonal Trend Analysis, Pricing Analysis
 - Other Skills: Problem Framing, Requirements Gathering, Scoring Methodologies, Reusable Dashboard Development, Strategic Recommendations, Stakeholder Collaboration
 
-## Case 1: National Food Channel
+# Case 1: Retail – Primary Fresh Grocers
+### Executive Summary
+1. Sales growth at Primary Fresh Grocers weakened during the latest quarter despite continued distribution expansion and increased promotional intensity.
+1. Declining display support contributed to lower unit volume and limited sustainable sales growth, while revenue performance became increasingly dependent on promotional activity and distribution gains.
+1. Over 80% of promotional dollars were concentrated within promotional periods during the latest 4 weeks, indicating growing consumer reliance on discount-driven purchasing behavior.
+1. The absence of seasonal Halloween promotional support contributed to an approximate $2M decline in weekly sales during the comparable period.
+
+Based on these findings, the following strategic recommendations were identified to improve baseline sales growth and promotional efficiency.
+
+![Primary Fresh Grocers](img/primary_fresh_grocers.png)
+
+### Recommendations
+1. Execute major seasonal promotions consistently, including Halloween campaigns that historically delivered approximately $2M in weekly sales, to prevent seasonal sales declines and stabilize promotional performance.
+1. Reset and lower the everyday price to reduce overreliance on promotion-driven sales by improving non-promotional purchase behavior
+1. Increase display activity to improve in-store visibility and support baseline sales growth
+
+### Business Problem
+The brand expanded promotional investments and distribution within the Primary Fresh Grocers channel to support growth. However, despite positive distribution trends, sales growth weakened during the latest quarter as unit performance deteriorated and promotional dependency increased. This analysis evaluated promotional effectiveness, display support, pricing trends, and distribution performance to identify opportunities to improve sustainable revenue and volume growth.
+
+### Key Insights
+1. Unit volume declined by -7.0% while dollar sales growth remained relatively flat, indicating pricing and distribution gains partially offset weakening consumer demand
+1. Promotional and display sales declined during the latest 26-week period, but expanding distribution helped offset sales losses
+1. Distribution expanded significantly from 1,786 to 2,199 TDP, providing strong support for market reach and sales stabilization
+1. The absence of seasonal Halloween promotional support, which historically generated approximately $2M in weekly sales, contributed to a significant -63.4% weekly sales decline during the comparable period.
+1. Dollar sales growth turned flat during the latest 4 weeks as display support significanly declined despite continued positive trends in distribution growth
+1. Promotional share exceeded 80% during the latest 4-week period, representing a significant increase versus 52 weeks and indicating growing consumer dependence on promotional pricing
+
+## Case 2: Channel – National Food
 ### Executive Summary
 Sales and unit declines accelerated in the National Food channel despite increased promotional activity during the latest quarter, indicating diminishing promotional effectiveness and weakening consumer demand. Additional findings revealed persistent distribution declines and limited sustained baseline sales growth.
 
@@ -36,7 +65,7 @@ The brand increased promotional investments within the National Food channel to 
 1. Weekly sales trends showed heavy dependence on short-term promotional spikes with limited sustained baseline sales growth
 1. Consumers showed stronger purchasing behavior toward larger multipack products, indicating higher perceived value and stronger unit-per-cost economics
 
-## Case 2: National Drug Channel
+## Case 3: Channel – National Drug
 ### Executive Summary
 Sales growth in the National Drug channel slowed during the latest quarter despite continued unit and distribution growth. Dashboard analysis revealed that increasingly aggressive promotional activity and declining Average Retail Price (ARP) reduced revenue efficiency and limited incremental sales gains. Additional findings also identified missed seasonal promotional opportunities and overreliance on short-term promotional spikes.
 
