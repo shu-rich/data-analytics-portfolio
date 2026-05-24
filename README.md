@@ -4,9 +4,7 @@ I am a Data Analyst with 10+ years of experience using SQL, Excel, and Tableau t
 
 This repository showcases end-to-end analytics projects focused on improving business performance and operational efficiency.
 
----
-
-## Technical Skills
+## Skills
 
 **Core strengths include:**
 
@@ -17,31 +15,20 @@ This repository showcases end-to-end analytics projects focused on improving bus
 - Data quality validation and process improvement  
 - Translating business requirements into analytical solutions  
 
-**Tools & Technologies**
+**Tools & Technologies:**  
+SQL, Excel, Tableau  
 
-- SQL  
-- Excel  
-- Tableau  
-- Git / GitHub  
-
-**Analytics Capabilities**
-
-|   |   |   |
-|---|---|---|
-|Data cleaning and transformation|Exploratory data analysis (EDA)|Revenue and business performance analysis|
-|Data visualization and dashboard development|KPI design and reporting|Customer behavior and retention analysis|
-|Data validation and quality monitoring|Process automation and optimization||
-
----
+**Analytics Capabilities:**  
+Data cleaning and transformation, Exploratory data analysis (EDA), Revenue and business performance analysis, Data visualization and dashboard development, KPI design and reporting, Customer behavior and retention analysis, Data validation and quality monitoring, Process automation and optimization
 
 ## Featured Projects
-*These projects reflect real-world analytics workflows used in business, operations, and performance monitoring.*
 
+*These projects reflect real-world analytics workflows used in business, operations, and performance monitoring.*
 
 ### [Ride Revenue Analysis](/ride-revenue-analysis)
 
 **Live Dashboard:**  
-https://public.tableau.com/app/profile/shu.richardson/viz/RideRevenueAnalysis/Overview
+<https://public.tableau.com/app/profile/shu.richardson/viz/RideRevenueAnalysis/Overview>
 
 **Objective:**  
 Analyze ride booking data to evaluate revenue performance, booking outcomes, and operational efficiency.
@@ -62,7 +49,7 @@ Identifies revenue drivers, highlights operational inefficiencies, and provides 
 ### [Customer Churn Analysis](/customer-churn-analysis)
 
 **Live Dashboard:**  
-https://public.tableau.com/app/profile/shu.richardson/viz/CustomerChurnAnalysis_17769718823230/CustomerChurnDashboard
+<https://public.tableau.com/app/profile/shu.richardson/viz/CustomerChurnAnalysis_17769718823230/CustomerChurnDashboard>
 
 **Objective:**  
 Identify key drivers of customer churn and generate insights to improve retention and customer satisfaction.
@@ -83,7 +70,7 @@ Helps identify at-risk customers and supports data-driven retention strategies.
 ### [Sales Performance Analysis](/sales-performance-analysis)
 
 **Live Dashboard:**  
-https://public.tableau.com/app/profile/shu.richardson/viz/SalesPerformanceAnalysis_17769194390800/SalesOverview
+<https://public.tableau.com/app/profile/shu.richardson/viz/SalesPerformanceAnalysis_17769194390800/SalesOverview>
 
 **Objective:**  
 Analyze sales performance across regions and product categories to identify revenue trends and optimization opportunities.
@@ -104,4 +91,4 @@ Supports revenue optimization and performance tracking across business segments.
 If you would like to connect or discuss opportunities:
 
 **LinkedIn:**  
-https://www.linkedin.com/in/shurichardson
+<https://www.linkedin.com/in/shurichardson>
