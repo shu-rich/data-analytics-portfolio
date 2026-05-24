@@ -21,17 +21,9 @@ SQL, Excel, Tableau
 **Analytics Capabilities:**  
 Data cleaning and transformation, Exploratory data analysis (EDA), Revenue and business performance analysis, Data visualization and dashboard development, KPI design and reporting, Customer behavior and retention analysis, Data validation and quality monitoring, Process automation and optimization
 
-## Featured Projects
+## [Ride Revenue Analysis](/ride-revenue-analysis)
 
-*These projects reflect real-world analytics workflows used in business, operations, and performance monitoring.*
-
-### [Ride Revenue Analysis](/ride-revenue-analysis)
-
-**Live Dashboard:**  
-<https://public.tableau.com/app/profile/shu.richardson/viz/RideRevenueAnalysis/Overview>
-
-**Objective:**  
-Analyze ride booking data to evaluate revenue performance, booking outcomes, and operational efficiency.
+Analyzed ride booking data to evaluate revenue performance, booking outcomes, and operational efficiency using Tableau dashboards.
 
 **What This Project Demonstrates:**
 
@@ -44,15 +36,9 @@ Analyze ride booking data to evaluate revenue performance, booking outcomes, and
 **Business Impact:**  
 Identifies revenue drivers, highlights operational inefficiencies, and provides insights to improve service performance and customer experience.
 
----
+## [Customer Churn Analysis](/customer-churn-analysis)
 
-### [Customer Churn Analysis](/customer-churn-analysis)
-
-**Live Dashboard:**  
-<https://public.tableau.com/app/profile/shu.richardson/viz/CustomerChurnAnalysis_17769718823230/CustomerChurnDashboard>
-
-**Objective:**  
-Identify key drivers of customer churn and generate insights to improve retention and customer satisfaction.
+Identified key drivers of customer churn and generate insights to improve retention and customer satisfaction.
 
 **What This Project Demonstrates:**
 
@@ -65,15 +51,9 @@ Identify key drivers of customer churn and generate insights to improve retentio
 **Business Impact:**  
 Helps identify at-risk customers and supports data-driven retention strategies.
 
----
+## [Sales Performance Analysis](/sales-performance-analysis)
 
-### [Sales Performance Analysis](/sales-performance-analysis)
-
-**Live Dashboard:**  
-<https://public.tableau.com/app/profile/shu.richardson/viz/SalesPerformanceAnalysis_17769194390800/SalesOverview>
-
-**Objective:**  
-Analyze sales performance across regions and product categories to identify revenue trends and optimization opportunities.
+Analyzed sales performance across regions and product categories to identify revenue trends and optimization opportunities.
 
 **What This Project Demonstrates:**
 
