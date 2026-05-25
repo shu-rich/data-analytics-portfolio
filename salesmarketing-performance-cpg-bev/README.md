@@ -1,30 +1,35 @@
 # Sales Marketing: Performance Score for CPG Beverage Companies
 
-## Summary
+## Overview
 
 This project showcases marketing insights and strategic recommendations for the CPG beverage industry using real-world syndicated datasets and interactive Excel dashboards to evaluate sales performance across retail channels and store-level markets.
 
 ## Methodology
 
-1. Data Collection: Extracted sales and performance metrics for targeted retail markets and channels from syndicated databases.
-1. ETL Using Power Query: Consolidated syndicated datasets and internal warehouse data across multiple formats — including databases, CSV files, and Excel dictionary files — for data cleaning, transformation, and customized reporting.
-1. Insights & Recommendations: Built interactive Excel dashboards to monitor market performance, identify growth opportunities, and support strategic business decisions.
+1. **Data Collection:**  
+Extracted sales and performance metrics for targeted retail markets and channels from syndicated databases.
+
+1. **ETL Using Power Query:**  
+Consolidated syndicated datasets and internal warehouse data across multiple formats — including databases, CSV files, and Excel dictionary files — for data cleaning, transformation, and customized reporting.
+
+1. **Insights & Recommendations:**  
+Built interactive Excel dashboards to monitor market performance, identify growth opportunities, and support strategic business decisions.
 
 ## Demonstrated Skills
 
-**Syndicated Datasets:**  
+- **Syndicated Datasets:**  
 Market Selection, KPI Development, Clustering, Aggregation, Reusable Reporting Extracts
 
-**Power Query:**  
+- **Power Query:**  
 Data Validation, Null/Outlier Handling, Normalization, Transformation, Deduplication, Joins, Data Splitting
 
-**Excel & Dashboarding:**  
+- **Excel & Dashboarding:**  
 Pivot Tables, Calculated Fields, Data Visualization, Filters, Slicers, KPI Tracking, Benchmarking, Dashboard Design, Stakeholder Reporting
 
-**Business Analysis:**  
+- **Business Analysis:**  
 Sales Performance Analysis, Promotional Effectiveness Analysis, Seasonal Trend Analysis, Pricing Analysis
 
-**Other Skills:**  
+- **Other Skills:**  
 Problem Framing, Requirements Gathering, Scoring Methodologies, Reusable Dashboard Development, Strategic Recommendations, Stakeholder Collaboration
 
 ## Case 1: Retail – Primary Fresh Grocers
@@ -40,9 +45,9 @@ The brand expanded promotional investments and distribution within the Primary F
 1. Over 80% of promotional dollars were concentrated within promotional periods during the latest 4 weeks, indicating growing consumer reliance on discount-driven purchasing behavior.
 1. The absence of seasonal Halloween promotional support contributed to an approximate $2M decline in weekly sales during the comparable period.
 
-Based on these findings, the following strategic recommendations were identified to improve baseline sales growth and promotional efficiency.
-
 ![Primary Fresh Grocers](img/primary_fresh_grocers.png)
+
+Based on these findings, the following strategic recommendations were identified to improve baseline sales growth and promotional efficiency.
 
 ### Recommendations
 
