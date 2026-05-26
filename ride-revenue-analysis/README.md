@@ -22,33 +22,16 @@ This project analyzes ride booking data to evaluate revenue performance, service
 - Root cause analysis (cancellations & failures)  
 - Data visualization and dashboard design  
 
-**Live Dashboard:**  
+### Live Dashboard
+
 <https://public.tableau.com/app/profile/shu.richardson/viz/RideRevenueAnalysis/Overview>
 
 ![Dashboard Summary](images/overview.png)
 ![Dashboard Incomplete Bookings](images/incomplete.png)
 ![Dashboard Details](images/details.png)
 
-### Incomplete & Cancellation Analysis
-
-- Total cancellations and cancellation rate
-- Customer vs. driver cancellations and reasons
-- Incomplete ride rate and reasons
-
-Identifies operational inefficiencies and root causes of failed bookings.
-
-### Vehicle-Level Performance (Detailed Table)
-
-Metrics analyzed by vehicle type:
-
-- Total customers  
-- Average customer rating  
-- Average driver rating  
-- Average ride distance  
-- Total revenue  
-- Revenue per customer  
-
-Highlights high-performing and underperforming service segments.
+- The Incomplete & Cancellation dashboard identifies revenue leakage by analyzing customer and driver cancellation rates and reasons to uncover operational inefficiencies and root causes of failed bookings.
+- A detailed performance table highlights high-performing and underperforming service segments to support operational optimization and business decision-making.
 
 ### Key Insights
 
