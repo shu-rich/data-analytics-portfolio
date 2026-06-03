@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Exploratory data analysis (EDA) revealed several key insights related to mental health and lifestyle behaviors:
+This portfolio project explores the relationship between social media behavior, lifestyle habits, and mental health outcomes through exploratory data analysis (EDA) technique.
 
 1. Increased daily screen time is associated with lower sleep quality and duration, as well as higher anxiety, depression, and stress scores.
 1. Regular exercise is associated with significantly lower levels of anxiety, depression, and stress-related symptoms.

@@ -69,10 +69,10 @@ SELECT
   ROUND(AVG(daily_screen_time_hours), 1) AS avg_screentime,
   ROUND(AVG(notification_checks_per_day), 1) AS avg_notificationchecks,
   ROUND(SUM(CASE WHEN uses_social_media_before_bed THEN 1 ELSE 0 END) / COUNT(1), 2) AS p_uses_before_bed,
-  ROUND(AVG(sleep_hours), 1) AS avg_sleephour,  -- 1.6h (21.6%) diff
-  ROUND(AVG(sleep_quality_score), 1) AS avg_sleepquality,  -- 17.1 diff
-  ROUND(AVG(anxiety_score), 1) AS avg_anxiety,  -- 2x
-  ROUND(AVG(depression_score), 1) AS avg_depression,  -- 34.8 diff
+  ROUND(AVG(sleep_hours), 1) AS avg_sleephour,
+  ROUND(AVG(sleep_quality_score), 1) AS avg_sleepquality,
+  ROUND(AVG(anxiety_score), 1) AS avg_anxiety,
+  ROUND(AVG(depression_score), 1) AS avg_depression,
   ROUND(AVG(stress_score), 1) AS avg_stress
 FROM
   `socialmedia.mentalhealth`
