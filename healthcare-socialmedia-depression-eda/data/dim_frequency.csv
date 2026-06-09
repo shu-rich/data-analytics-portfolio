@@ -1,0 +1,7 @@
+frequency_id,frequency_type,frequency_value,frequency_sort_order
+1,night_checking,Rarely/Never,1
+2,night_checking,Sometimes,2
+3,night_checking,Frequently,3
+101,exercise,None,1
+102,exercise,Occasional,2
+103,exercise,Regular,3

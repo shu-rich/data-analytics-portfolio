@@ -21,10 +21,9 @@ Healthcare organizations and wellness platforms are facing an increasing number 
 ## Demonstrated Skills
 
 - **SQL:**  
-CTEs, joins, CASE statements, aggregate functions, and exploratory data analysis (EDA)
+CTEs, joins, View, CASE statements, aggregate functions, and exploratory data analysis (EDA)
 
-- **Google Cloud BigQuery:**  
-Queried and analyzed large datasets while leveraging built-in visualization features to present insights and support data-driven storytelling and strategic decision-making.
+- **Tablew**  
 
 ## Key Insights & Recommendations
 

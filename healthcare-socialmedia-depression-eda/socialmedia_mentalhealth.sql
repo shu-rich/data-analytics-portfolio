@@ -1,3 +1,39 @@
+-- This view is referenced by Tableau to create visualizations.
+CREATE OR REPLACE VIEW socialmedia.mentalhealth AS
+SELECT
+	u.user_id,
+	sr.survey_date,
+	u.age,
+	u.age_group,
+	u.gender,
+	p.platform_name AS primary_platform,
+	ct.content_type_name AS primary_content_type,
+	smu.daily_screen_time_hours,
+	smu.notification_checks_per_day,
+	f_night.frequency_value AS night_checking_frequency,
+	smu.uses_social_media_before_bed,
+	smu.social_media_detox_habit,
+	smu.limited_screen_time_habit,
+	f_exercise.frequency_value AS exercise_frequency,
+	mha.cyberbullying_exposure,
+	mha.trusted_support_system,
+	sb.sleep_hours,
+	sb.sleep_quality_score,
+	mha.anxiety_score,
+	mha.depression_score,
+	mha.stress_score,
+	mha.mental_health_issue
+FROM
+	socialmedia.fact_survey_response sr
+	JOIN socialmedia.dim_user u ON sr.user_id = u.user_id
+	JOIN socialmedia.fact_social_media_usage smu ON sr.survey_id = smu.survey_id
+	JOIN socialmedia.dim_platform p ON smu.platform_id = p.platform_id
+	JOIN socialmedia.dim_content_type ct ON smu.content_type_id = ct.content_type_id
+	JOIN socialmedia.dim_frequency f_night ON smu.night_checking_frequency_id = f_night.frequency_id
+	JOIN socialmedia.fact_sleep_behavior sb ON sr.survey_id = sb.survey_id
+	JOIN socialmedia.dim_frequency f_exercise ON sb.exercise_frequency_id = f_exercise.frequency_id
+	JOIN socialmedia.fact_mental_health_assessment mha ON sr.survey_id = mha.survey_id;
+ 
 -- 1. What is the relationship between social media usage patterns and sleep behavior, including sleep duration, sleep quality, and nighttime usage?
 WITH t_ranked AS (
   SELECT

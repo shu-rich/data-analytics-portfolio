@@ -1,0 +1,5 @@
+risk_level_id,risk_level,risk_sort_order
+1,Low,1
+2,Moderate,2
+3,High,3
+4,Severe,4
