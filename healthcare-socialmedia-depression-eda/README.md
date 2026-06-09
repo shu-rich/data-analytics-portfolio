@@ -23,7 +23,7 @@ Healthcare organizations and wellness platforms are facing an increasing number 
 - **SQL:**  
 CTEs, joins, View, CASE statements, aggregate functions, and exploratory data analysis (EDA)
 
-- **Tablew**  
+- **Tableau**  
 
 ## Key Insights & Recommendations
 

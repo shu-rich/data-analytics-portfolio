@@ -21,6 +21,10 @@ SQL, Excel, Tableau
 **Analytics Capabilities:**  
 Data cleaning and transformation, Exploratory data analysis (EDA), Revenue and business performance analysis, Data visualization and dashboard development, KPI design and reporting, Customer behavior and retention analysis, Data validation and quality monitoring, Process automation and optimization
 
+## [Healthcare: Social Media Depression Exploratory Data Analysis](/healthcare-socialmedia-depression-eda)
+
+This project explores the relationship between social media behavior, lifestyle habits, and mental health outcomes through exploratory data analysis (EDA) using SQL and Tableau. Through screen time analysis, sleep behavior evaluation, exercise habit tracking, and mental health scoring, the project identifies behavioral risk indicators associated with anxiety, depression, and stress, and uncovers patterns in cyberbullying exposure, support system availability, and nighttime device usage to support strategic recommendations for digital wellness intervention and mental health risk reduction.
+
 ## [Sales Marketing: Performance Score for CPG Beverage Companies](/salesmarketing-performance-cpg-bev)
 
 This project analyzes syndicated retail sales data using Power Query and interactive Excel dashboards to uncover marketing insights and revenue growth opportunities across multiple CPG beverage channels and retailers. Through promotional effectiveness analysis, pricing evaluation, distribution tracking, and seasonal trend analysis, the project identifies operational inefficiencies, consumer purchasing behaviors, and channel-specific growth opportunities to support strategic recommendations for revenue optimization and sales performance improvement.
