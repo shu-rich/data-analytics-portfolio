@@ -4,9 +4,16 @@
 
 This portfolio project explores the relationship between social media behavior, lifestyle habits, and mental health outcomes through exploratory data analysis (EDA) technique.
 
-1. Increased daily screen time is associated with lower sleep quality and duration, as well as higher anxiety, depression, and stress scores.
-1. Regular exercise is associated with significantly lower levels of anxiety, depression, and stress-related symptoms.
-1. Individuals experiencing anxiety, depression, or stress are less likely to have someone they feel comfortable speaking with about personal concerns.
+### Live Dashboard
+
+<https://public.tableau.com/app/profile/shu.richardson/viz/mentalhealth_17821885223430/Dashboard1>
+
+![Dashboard](img/dashboard-mentalhealth.png)
+
+1. Insufficient sleep is associated with reduced sleep quality scores, as well as elevated anxiety, depression, and stress scores.
+1. Poor sleep quality is correlated with the frequency of nighttime social media checking.
+1. Regular exercise is associated with significantly lower stress score levels.
+1. Individuals experiencing mental health challenges are less likely to have a trusted person they feel comfortable speaking with about personal concerns.
 
 Based on these findings, the following recommendations are proposed to help reduce the risk of mental health challenges among users:
 
@@ -24,6 +31,7 @@ Healthcare organizations and wellness platforms are facing an increasing number 
 CTEs, joins, View, CASE statements, aggregate functions, and exploratory data analysis (EDA)
 
 - **Tableau**  
+Data Visualization, Dashboard Design, Stakeholder Reporting
 
 ## Key Insights & Recommendations
 
