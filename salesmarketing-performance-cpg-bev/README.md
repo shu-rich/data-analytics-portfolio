@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases marketing insights and strategic recommendations for the CPG beverage industry using real-world syndicated datasets and interactive Excel dashboards to evaluate sales performance across retail channels and store-level markets.
+This project showcases marketing insights and strategic recommendations for the CPG beverage industry using synthetic data modeled after real-world syndicated datasets and interactive Excel dashboards to evaluate sales performance across retail channels and store-level markets.
 
 ## Methodology
 
