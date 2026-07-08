@@ -1,8 +1,6 @@
 # Data Analytics Portfolio
 
-I am a Data Analyst with 10+ years of experience using SQL, Excel, and Tableau to build executive dashboards, automate reporting, and deliver insights for sales, marketing, finance, and operations teams. Proven ability to analyze revenue performance, customer behavior, and lifecycle trends to inform pricing, retention, and growth strategies.
-
-This repository showcases end-to-end analytics projects focused on improving business performance and operational efficiency.
+I am a Data Analyst with 8+ years of experience using SQL, Excel, and Tableau to build executive dashboards, automate reporting, and deliver insights for sales, marketing, finance, and operations teams. This repository showcases end-to-end analytics projects focused on improving business performance and operational efficiency.
 
 ## Skills
 
@@ -20,6 +18,10 @@ SQL, Excel, Tableau
 
 **Analytics Capabilities:**  
 Data cleaning and transformation, Exploratory data analysis (EDA), Revenue and business performance analysis, Data visualization and dashboard development, KPI design and reporting, Customer behavior and retention analysis, Data validation and quality monitoring, Process automation and optimization
+
+## [E-Commerce: Conversion Funnel Analysis](/ecommerce-conversion-funnel-analysis)
+
+This project analyzes clickstream event data using BigQuery SQL and Tableau to diagnose why conversion remained flat despite increased marketing spend. Through funnel drop-off analysis, acquisition channel benchmarking, time-to-purchase measurement, and revenue-per-user economics, the project pinpoints the top of the funnel and the social channel as the primary bottlenecks, and delivers budget reallocation and customer acquisition cost guidance to support strategic recommendations for conversion rate optimization and marketing spend efficiency.
 
 ## [Healthcare: Social Media Depression Exploratory Data Analysis](/healthcare-socialmedia-depression-eda)
 
